@@ -1,2 +1,2 @@
 # node-js-apps
-Develop and Deploy th enode js applications
+Develop and Deploy the node js applications
